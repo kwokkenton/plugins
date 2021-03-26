@@ -1,3 +1,5 @@
+<img src="https://cdn.londonandpartners.com/-/media/images/london/visit/traveller-information/getting-around/cycling/cycyling-3-640x360-credit-tfl-press-images.jpg?mw=640&hash=0E8E72EC8C0B7B051E88B4BADAC1F4D5DD2EE84D"> Image courtesy of TfL
+
 # cyclTracker Plugin for xbar
 
 Author: Kenton Kwok
